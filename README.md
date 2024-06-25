@@ -19,6 +19,8 @@ This repository contains a website that provides guidance and support for indivi
         <button
 3. Open the index.html in your web browser to access the website.
 
+## Screenshot
+![](./screenshot.png)
 ## Contributing
 
 Contributions are welcome! If you have additional tips, success stories, or interactive features to add, feel free to fork the repository and submit a pull request.
