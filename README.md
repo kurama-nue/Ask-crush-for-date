@@ -19,6 +19,10 @@ This repository contains a website that provides guidance and support for indivi
         <button
 3. Open the index.html in your web browser to access the website.
 
+##Live Preview
+
+(https://kurama-nue.github.io/Ask-crush-for-date/)
+
 ## Screenshot
 ![](./screenshot.png)
 ## Contributing
